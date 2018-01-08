@@ -1,0 +1,700 @@
+﻿Log file open, 01/04/18 23:42:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TurnBased
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1032016763) SRandInit(1032016763).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.183259
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.05-06.42.53:995][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.05-06.42.53:995][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.05-06.42.54:096][  0]LogInit: Computer: DESKTOP-CG7OHTT
+[2018.01.05-06.42.54:096][  0]LogInit: User: jacob
+[2018.01.05-06.42.54:096][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.05-06.42.54:096][  0]LogInit: High frequency timer resolution =3.914057 MHz
+[2018.01.05-06.42.54:097][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.01.05-06.42.54:097][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.05-06.42.54:097][  0]LogMemory: Process Physical Memory: 273.44 MB used, 273.44 MB peak
+[2018.01.05-06.42.54:097][  0]LogMemory: Process Virtual Memory: 271.99 MB used, 271.99 MB peak
+[2018.01.05-06.42.54:097][  0]LogMemory: Physical Memory: 11840.67 MB used,  20852.85 MB free, 32693.52 MB total
+[2018.01.05-06.42.54:097][  0]LogMemory: Virtual Memory: 679.71 MB used,  20852.85 MB free, 134217728.00 MB total
+[2018.01.05-06.42.54:200][  0]LogInit: Using OS detected language (en-US).
+[2018.01.05-06.42.54:200][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.05-06.42.54:202][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.05-06.42.54:499][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.05-06.42.54:694][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.05-06.42.54:720][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.01.05-06.42.54:720][  0]LogD3D11RHI:       4058/0/16346 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.05-06.42.54:722][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.05-06.42.54:722][  0]LogD3D11RHI:       0/0/16346 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.05-06.42.54:722][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.05-06.42.54:729][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.05-06.42.54:729][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.05-06.42.54:729][  0]LogWindows: EnumDisplayDevices:
+[2018.01.05-06.42.54:729][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.01.05-06.42.54:729][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.01.05-06.42.54:729][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.01.05-06.42.54:730][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.01.05-06.42.54:730][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.05-06.42.54:730][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.01.05-06.42.54:730][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.05-06.42.54:730][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.05-06.42.54:730][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
+[2018.01.05-06.42.54:746][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.05-06.42.54:792][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.05-06.42.54:839][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (L:/TurnBasedPokeValley/TurnBased/Intermediate/Shaders/WorkingDirectory/28932/).
+[2018.01.05-06.42.54:839][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jacob/AppData/Local/Temp/UnrealShaderWorkingDir/0C5ED0AC481236EC7EEF85BE10264636/'.
+[2018.01.05-06.42.54:839][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.05-06.42.55:495][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.05-06.42.55:557][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.05-06.42.55:617][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.05-06.42.55:678][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.05-06.42.55:739][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.05-06.42.55:800][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.05-06.42.55:862][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.05-06.42.55:925][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.05-06.42.55:981][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.05-06.42.56:040][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.05-06.42.56:101][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.05-06.42.56:160][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.05-06.42.56:221][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.05-06.42.56:280][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.05-06.42.56:400][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.05-06.42.56:400][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.05-06.42.56:459][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.05-06.42.56:487][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.05-06.42.56:581][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.05-06.42.56:625][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.05-06.42.56:685][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.05-06.42.56:744][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.05-06.42.56:803][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.05-06.42.56:864][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.05-06.42.56:864][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.05-06.42.57:194][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.05-06.42.57:240][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/jacob/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.05-06.42.57:240][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jacob/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.05-06.42.57:240][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file L:/TurnBasedPokeValley/TurnBased/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.05-06.42.57:240][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.05-06.42.57:240][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file L:/TurnBasedPokeValley/TurnBased/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.05-06.42.57:240][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.05-06.42.57:252][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.05-06.42.57:264][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jacob/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.05-06.42.57:271][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.05-06.42.57:271][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.05-06.42.57:271][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.05-06.42.57:271][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.05-06.42.58:635][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.05-06.42.58:865][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.05-06.42.58:895][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.05-06.42.58:895][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.05-06.42.58:895][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.05-06.42.58:895][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.05-06.42.58:895][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.05-06.42.58:917][  0]LogNetVersion: TurnBased , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1579785366)
+[2018.01.05-06.42.59:058][  0]LogAssetRegistry: FAssetRegistry took 0.0482 seconds to start up
+[2018.01.05-06.43.00:641][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 1.206433 seconds
+[2018.01.05-06.43.00:645][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.05-06.43.00:645][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.01.05-06.43.00:645][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.05-06.43.00:682][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.05-06.43.02:579][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.05-06.43.02:611][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.05-06.43.03:150][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.05-06.43.03:467][  0]SourceControl: Source control is disabled
+[2018.01.05-06.43.03:467][  0]SourceControl: Source control is disabled
+[2018.01.05-06.43.03:508][  0]SourceControl: Source control is disabled
+[2018.01.05-06.43.03:544][  0]SourceControl: Source control is disabled
+[2018.01.05-06.43.04:122][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.05-06.43.04:310][  0]LogOcInput: OculusInput pre-init called
+[2018.01.05-06.43.04:517][  0]LogEngine: Initializing Engine...
+[2018.01.05-06.43.04:518][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.05-06.43.04:682][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.05-06.43.04:682][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.05-06.43.04:788][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.05-06.43.04:800][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.05-06.43.04:824][  0]LogInit: FAudioDevice initialized.
+[2018.01.05-06.43.04:888][  0]LogDerivedDataCache: Saved boot cache 0.06s 78MB C:/Users/jacob/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.05-06.43.04:898][  0]LogInit: Texture streaming: Enabled
+[2018.01.05-06.43.04:969][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.05-06.43.05:066][  0]LogInit: Transaction tracking system initialized
+[2018.01.05-06.43.05:291][  0]BlueprintLog: New page: Editor Load
+[2018.01.05-06.43.05:948][  0]LocalizationService: Localization service is disabled
+[2018.01.05-06.43.06:481][  0]LogConsoleResponse: Display: 
+[2018.01.05-06.43.06:626][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.05-06.43.06:626][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.05-06.43.06:626][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.05-06.43.07:536][  0]LogFileCache: Scanning file cache for directory 'L:/TurnBasedPokeValley/TurnBased/Content/' took 0.62s
+[2018.01.05-06.43.07:536][  0]SourceControl: Source control is disabled
+[2018.01.05-06.43.07:536][  0]Cmd: MAP LOAD FILE="L:/TurnBasedPokeValley/TurnBased/Content/AdvancedTurnBasedTileToolkit/Maps/Map_Grid_Example.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.05-06.43.07:552][  0]LightingResults: New page: Lighting Build
+[2018.01.05-06.43.07:584][  0]MapCheck: New page: Map Check
+[2018.01.05-06.43.07:584][  0]LightingResults: New page: Lighting Build
+[2018.01.05-06.43.37:683][  0]LogAIModule: Creating AISystem for world Map_Grid_Example
+[2018.01.05-06.43.37:722][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.05-06.43.37:776][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.05-06.43.41:226][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,450.303ms to complete.
+[2018.01.05-06.43.41:227][  0]LogFileHelpers: Loading map 'Map_Grid_Example' took 33.690
+[2018.01.05-06.43.41:385][  0]LogCollectionManager: Loaded 0 collections in 0.024748 seconds
+[2018.01.05-06.43.41:494][  0]LogFileCache: Scanning file cache for directory 'L:/TurnBasedPokeValley/TurnBased/Saved/Collections/' took 0.02s
+[2018.01.05-06.43.41:494][  0]LogFileCache: Scanning file cache for directory 'L:/TurnBasedPokeValley/TurnBased/Content/Developers/jacob/Collections/' took 0.02s
+[2018.01.05-06.43.41:494][  0]LogFileCache: Scanning file cache for directory 'L:/TurnBasedPokeValley/TurnBased/Content/Collections/' took 0.02s
+[2018.01.05-06.43.41:494][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.05-06.43.41:500][  0]LogContentBrowser: Native class hierarchy populated in 0.0060 seconds. Added 2363 classes and 519 folders.
+[2018.01.05-06.43.41:547][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.05-06.43.41:571][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.05-06.43.41:602][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.05-06.43.41:615][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.05-06.43.41:617][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.05-06.43.41:621][  0]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.05-06.43.41:693][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.01.05-06.43.41:882][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.05-06.43.41:883][  0]LogLoad: (Engine Initialization) Total time: 54.56 seconds
+[2018.01.05-06.43.41:883][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.05-06.43.41:883][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.05-06.43.41:883][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.05-06.43.41:892][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.05-06.43.41:909][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.05-06.43.42:019][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.05-06.43.42:348][  1]LogAssetRegistry: Asset discovery search completed in 43.3114 seconds
+[2018.01.05-06.43.42:350][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.05-06.43.42:350][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
+[2018.01.05-06.44.13:712][357]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.44.13:712][357]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.44.13:712][357]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_Player_Ranged_C /Engine/Transient.World_1:PersistentLevel.Unit_Player_Ranged_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0193
+[2018.01.05-06.44.13:712][357]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.44.13:712][357]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_Player_Ranged_C /Engine/Transient.World_1:PersistentLevel.Unit_Player_Ranged_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:03CC
+[2018.01.05-06.44.13:712][357]LogScript: Warning: Accessed None trying to read property GridManager_Ref
+	Unit_Player_Ranged_C /Engine/Transient.World_1:PersistentLevel.Unit_Player_Ranged_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0343
+[2018.01.05-06.44.13:714][357]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.44.13:714][357]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.44.13:714][357]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_Player_Melee_C /Engine/Transient.World_2:PersistentLevel.Unit_Player_Melee_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0193
+[2018.01.05-06.44.13:714][357]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.44.13:714][357]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_Player_Melee_C /Engine/Transient.World_2:PersistentLevel.Unit_Player_Melee_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:03CC
+[2018.01.05-06.44.13:714][357]LogScript: Warning: Accessed None trying to read property GridManager_Ref
+	Unit_Player_Melee_C /Engine/Transient.World_2:PersistentLevel.Unit_Player_Melee_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0343
+[2018.01.05-06.44.13:715][357]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.44.13:715][357]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.44.13:715][357]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_Enemy_Ranged_C /Engine/Transient.World_3:PersistentLevel.Unit_Enemy_Ranged_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0193
+[2018.01.05-06.44.13:715][357]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.44.13:715][357]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_Enemy_Ranged_C /Engine/Transient.World_3:PersistentLevel.Unit_Enemy_Ranged_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:03CC
+[2018.01.05-06.44.13:715][357]LogScript: Warning: Accessed None trying to read property GridManager_Ref
+	Unit_Enemy_Ranged_C /Engine/Transient.World_3:PersistentLevel.Unit_Enemy_Ranged_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0343
+[2018.01.05-06.44.13:778][358]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.44.13:778][358]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.44.13:778][358]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_Enemy_Melee_C /Engine/Transient.World_4:PersistentLevel.Unit_Enemy_Melee_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0193
+[2018.01.05-06.44.13:778][358]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.44.13:778][358]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_Enemy_Melee_C /Engine/Transient.World_4:PersistentLevel.Unit_Enemy_Melee_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:03CC
+[2018.01.05-06.44.13:778][358]LogScript: Warning: Accessed None trying to read property GridManager_Ref
+	Unit_Enemy_Melee_C /Engine/Transient.World_4:PersistentLevel.Unit_Enemy_Melee_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0343
+[2018.01.05-06.44.42:577][888]LogEditorViewport: Clicking on Actor (LMB): BP_Grid_Manager_C (BP_Grid_Manager)
+[2018.01.05-06.44.43:439][978]LogEditorViewport: Clicking on Actor (LMB): Unit_Player_Ranged_C (Unit_Player_Ranged)
+[2018.01.05-06.44.44:714][125]LogEditorViewport: Clicking on Actor (LMB): BP_Grid_Manager_C (BP_Grid_Manager)
+[2018.01.05-06.44.56:923][137]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.05-06.44.57:241][137]LogClass: Warning: Enum '/Game/AdvancedTurnBasedTileToolkit/Maps/2D_Game_Example/Blueprints/Enums/Enum_Item_Type.Enum_Item_Type' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.01.05-06.44.57:275][137]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.01.05-06.44.57:761][137]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.05-06.44.57:803][137]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.44.57:803][137]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.44.57:803][137]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_Enemy_Melee1_C /Engine/Transient.World_6:PersistentLevel.Unit_Enemy_Melee1_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0193
+[2018.01.05-06.44.57:803][137]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.44.57:803][137]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_Enemy_Melee1_C /Engine/Transient.World_6:PersistentLevel.Unit_Enemy_Melee1_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:03CC
+[2018.01.05-06.44.57:803][137]LogScript: Warning: Accessed None trying to read property GridManager_Ref
+	Unit_Enemy_Melee1_C /Engine/Transient.World_6:PersistentLevel.Unit_Enemy_Melee1_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0343
+[2018.01.05-06.44.57:804][137]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.44.57:804][137]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.44.57:804][137]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_Enemy_Melee1_C /Engine/Transient.World_5:PersistentLevel.Unit_Enemy_Melee1_C_1
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0193
+[2018.01.05-06.44.57:804][137]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.44.57:804][137]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_Enemy_Melee1_C /Engine/Transient.World_5:PersistentLevel.Unit_Enemy_Melee1_C_1
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:03CC
+[2018.01.05-06.44.57:804][137]LogScript: Warning: Accessed None trying to read property GridManager_Ref
+	Unit_Enemy_Melee1_C /Engine/Transient.World_5:PersistentLevel.Unit_Enemy_Melee1_C_1
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0343
+[2018.01.05-06.44.57:809][137]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.05-06.44.57:891][138]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.05-06.46.05:665][217]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'USkeletalMeshComponent::GetAnimInstance' [Element not found.]
+[2018.01.05-06.46.15:280][652]LogTexture: Display: Building textures: Alien_1_Torso_E (AutoDXT, 512X512)
+[2018.01.05-06.46.15:280][652]LogTexture: Display: Building textures: Alien_1_Torso_N (BC5, 512X512)
+[2018.01.05-06.46.15:280][652]LogTexture: Display: Building textures: Alien_1_Torso_D (AutoDXT, 512X512)
+[2018.01.05-06.46.15:280][652]LogTexture: Display: Building textures: Alien_1_Head_E (AutoDXT, 512X512)
+[2018.01.05-06.46.15:280][652]LogTexture: Display: Building textures: Alien_1_Head_D (AutoDXT, 512X512)
+[2018.01.05-06.46.15:280][652]LogTexture: Display: Building textures: Alien_1_Legs_N (BC5, 512X512)
+[2018.01.05-06.46.15:281][652]LogTexture: Display: Building textures: Alien_1_Legs_E (AutoDXT, 512X512)
+[2018.01.05-06.46.15:499][652]LogTexture: Display: Building textures: Alien_1_Legs_D (AutoDXT, 512X512)
+[2018.01.05-06.46.15:499][652]LogTexture: Display: Building textures: Alien_1_Head_N (BC5, 512X512)
+[2018.01.05-06.46.15:502][652]LogMaterial: Missing cached shader map for material Mat_Alien_1_Torso, compiling. 
+[2018.01.05-06.46.15:578][652]LogMaterial: Missing cached shader map for material Mat_Alien_1_Head, compiling. 
+[2018.01.05-06.46.15:622][652]LogMaterial: Missing cached shader map for material Mat_Alien_1_Legs, compiling. 
+[2018.01.05-06.46.15:715][652]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.05-06.46.16:933][652]LogTexture: Display: Building textures: ar_e (AutoDXT, 1024X1024)
+[2018.01.05-06.46.16:933][652]LogTexture: Display: Building textures: ar_d (AutoDXT, 1024X1024)
+[2018.01.05-06.46.16:933][652]LogTexture: Display: Building textures: ar_n (BC5, 1024X1024)
+[2018.01.05-06.46.16:933][652]LogTexture: Display: Building textures: ar_colormask (AutoDXT, 1024X1024)
+[2018.01.05-06.46.17:160][652]LogStaticMesh: Building static mesh ar_hr...
+[2018.01.05-06.46.17:245][652]LogStaticMesh: Built static mesh [0.09s] /Game/AdvancedTurnBasedTileToolkit/Maps/SciFi/Weapons/ar_hr.ar_hr
+[2018.01.05-06.46.17:257][652]LogMaterial: Missing cached shader map for material M_ar, compiling. 
+[2018.01.05-06.46.17:283][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.05-06.46.18:433][652]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.01.05-06.46.35:977][545]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.46.35:977][545]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.46.35:977][545]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_Enemy_Melee1_C /Engine/Transient.World_13:PersistentLevel.Unit_Enemy_Melee1_C_2
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0193
+[2018.01.05-06.46.35:977][545]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.46.35:977][545]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_Enemy_Melee1_C /Engine/Transient.World_13:PersistentLevel.Unit_Enemy_Melee1_C_2
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:03CC
+[2018.01.05-06.46.35:977][545]LogScript: Warning: Accessed None trying to read property GridManager_Ref
+	Unit_Enemy_Melee1_C /Engine/Transient.World_13:PersistentLevel.Unit_Enemy_Melee1_C_2
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0343
+[2018.01.05-06.47.25:746][572]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.47.25:746][572]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.47.25:746][572]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_Enemy_Melee1_C /Engine/Transient.World_14:PersistentLevel.Unit_Enemy_Melee1_C_3
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0193
+[2018.01.05-06.47.25:746][572]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.47.25:746][572]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_Enemy_Melee1_C /Engine/Transient.World_14:PersistentLevel.Unit_Enemy_Melee1_C_3
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:03CC
+[2018.01.05-06.47.25:746][572]LogScript: Warning: Accessed None trying to read property GridManager_Ref
+	Unit_Enemy_Melee1_C /Engine/Transient.World_14:PersistentLevel.Unit_Enemy_Melee1_C_3
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0343
+[2018.01.05-06.49.38:849][638]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.49.38:849][638]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.49.38:849][638]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_C /Engine/Transient.World_15:PersistentLevel.Unit_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0193
+[2018.01.05-06.49.38:849][638]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.49.38:849][638]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_C /Engine/Transient.World_15:PersistentLevel.Unit_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:03CC
+[2018.01.05-06.49.38:849][638]LogScript: Warning: Accessed None trying to read property GridManager_Ref
+	Unit_C /Engine/Transient.World_15:PersistentLevel.Unit_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0343
+[2018.01.05-06.59.18:361][268]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.59.18:361][268]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.59.18:361][268]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_C /Engine/Transient.World_17:PersistentLevel.Unit_C_1
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0193
+[2018.01.05-06.59.18:361][268]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-06.59.18:361][268]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_C /Engine/Transient.World_17:PersistentLevel.Unit_C_1
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:03CC
+[2018.01.05-06.59.18:361][268]LogScript: Warning: Accessed None trying to read property GridManager_Ref
+	Unit_C /Engine/Transient.World_17:PersistentLevel.Unit_C_1
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0343
+[2018.01.05-07.34.57:146][ 46]LogEditorViewport: Clicking on Actor (LMB): BP_Grid_Manager_C (BP_Grid_Manager)
+[2018.01.05-07.35.00:357][389]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.05-07.35.01:432][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.05-07.35.01:432][389]PIE: New page: PIE session: Map_Grid_Example (Jan 4, 2018, 5:35:01 PM)
+[2018.01.05-07.35.01:433][389]LogPlayLevel: Creating play world package: /Game/AdvancedTurnBasedTileToolkit/Maps/UEDPIE_0_Map_Grid_Example
+[2018.01.05-07.35.01:439][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006386s)
+[2018.01.05-07.35.01:439][389]LogAIModule: Creating AISystem for world Map_Grid_Example
+[2018.01.05-07.35.01:440][389]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2018.01.05-07.35.01:440][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedTurnBasedTileToolkit/Maps/Map_Grid_Example.Map_Grid_Example to /Game/AdvancedTurnBasedTileToolkit/Maps/UEDPIE_0_Map_Grid_Example.Map_Grid_Example (0.007222s)
+[2018.01.05-07.35.01:467][389]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.05-07.35.01:487][389]LogInit: FAudioDevice initialized.
+[2018.01.05-07.35.01:527][389]LogLoad: Game class is 'ATBTT_GameMode_C'
+[2018.01.05-07.35.01:531][389]LogWorld: Bringing World /Game/AdvancedTurnBasedTileToolkit/Maps/UEDPIE_0_Map_Grid_Example.Map_Grid_Example up for play (max tick rate 0) at 2018.01.05-00.35.01
+[2018.01.05-07.35.01:532][389]LogWorld: Bringing up level for play took: 0.003934
+[2018.01.05-07.35.01:562][389]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.01.05-07.35.01:562][389]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.05-07.35.01:562][389]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.05-07.35.01:562][389]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.05-07.35.01:569][389]LogScriptCore: Warning: Script Msg: Attempted to access index 400 from array 'VectorFieldArray' of length 400 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Gameplay/BP_Grid_Manager.BP_Grid_Manager_C'!
+[2018.01.05-07.35.01:569][389]LogScriptCore: Warning: Script Msg: Attempted to access index 401 from array 'VectorFieldArray' of length 400 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Gameplay/BP_Grid_Manager.BP_Grid_Manager_C'!
+[2018.01.05-07.35.01:569][389]LogScriptCore: Warning: Script Msg: Attempted to access index 419 from array 'VectorFieldArray' of length 400 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Gameplay/BP_Grid_Manager.BP_Grid_Manager_C'!
+[2018.01.05-07.35.01:569][389]LogScriptCore: Warning: Script Msg: Attempted to access index 419 from array 'VectorFieldArray' of length 400 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Gameplay/BP_Grid_Manager.BP_Grid_Manager_C'!
+[2018.01.05-07.35.01:569][389]LogScriptCore: Warning: Script Msg: Attempted to access index 420 from array 'VectorFieldArray' of length 400 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Gameplay/BP_Grid_Manager.BP_Grid_Manager_C'!
+[2018.01.05-07.35.01:569][389]LogScriptCore: Warning: Script Msg: Attempted to access index 400 from array 'VectorFieldArray' of length 400 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Gameplay/BP_Grid_Manager.BP_Grid_Manager_C'!
+[2018.01.05-07.35.01:573][389]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.05-07.35.01:573][389]PIE: Play in editor start time for /Game/AdvancedTurnBasedTileToolkit/Maps/UEDPIE_0_Map_Grid_Example 0.517
+[2018.01.05-07.35.15:352][  6]LogScriptCore: Warning: Script Msg: Attempted to access index -15 from array 'VectorFieldArray' of length 400 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Gameplay/BP_Grid_Manager.BP_Grid_Manager_C'!
+[2018.01.05-07.41.37:792][653]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.41.37:792][653]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.41.37:792][653]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_C /Engine/Transient.World_18:PersistentLevel.Unit_C_2
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0193
+[2018.01.05-07.41.37:792][653]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.41.37:792][653]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_C /Engine/Transient.World_18:PersistentLevel.Unit_C_2
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:03CC
+[2018.01.05-07.41.37:792][653]LogScript: Warning: Accessed None trying to read property GridManager_Ref
+	Unit_C /Engine/Transient.World_18:PersistentLevel.Unit_C_2
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0343
+[2018.01.05-07.42.11:384][755]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.42.11:384][755]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.42.11:384][755]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_C /Engine/Transient.World_18:PersistentLevel.Unit_C_2
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0193
+[2018.01.05-07.42.11:384][755]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.42.11:384][755]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_C /Engine/Transient.World_18:PersistentLevel.Unit_C_2
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:03CC
+[2018.01.05-07.42.11:384][755]LogScript: Warning: Accessed None trying to read property GridManager_Ref
+	Unit_C /Engine/Transient.World_18:PersistentLevel.Unit_C_2
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0343
+[2018.01.05-07.42.13:143][858]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.42.13:143][858]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.42.13:143][858]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_C /Engine/Transient.World_18:PersistentLevel.Unit_C_2
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0193
+[2018.01.05-07.42.13:143][858]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.42.13:143][858]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_C /Engine/Transient.World_18:PersistentLevel.Unit_C_2
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:03CC
+[2018.01.05-07.42.13:143][858]LogScript: Warning: Accessed None trying to read property GridManager_Ref
+	Unit_C /Engine/Transient.World_18:PersistentLevel.Unit_C_2
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0343
+[2018.01.05-07.42.54:784][585]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.42.54:784][585]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.42.54:784][585]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_C /Engine/Transient.World_18:PersistentLevel.Unit_C_2
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0193
+[2018.01.05-07.42.54:784][585]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.42.54:784][585]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_C /Engine/Transient.World_18:PersistentLevel.Unit_C_2
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:03CC
+[2018.01.05-07.42.54:784][585]LogScript: Warning: Accessed None trying to read property GridManager_Ref
+	Unit_C /Engine/Transient.World_18:PersistentLevel.Unit_C_2
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0343
+[2018.01.05-07.43.38:830][992]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.43.38:830][992]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.43.38:830][992]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_C /Engine/Transient.World_18:PersistentLevel.Unit_C_2
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0193
+[2018.01.05-07.43.38:830][992]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.43.38:830][992]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_C /Engine/Transient.World_18:PersistentLevel.Unit_C_2
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:03CC
+[2018.01.05-07.43.38:830][992]LogScript: Warning: Accessed None trying to read property GridManager_Ref
+	Unit_C /Engine/Transient.World_18:PersistentLevel.Unit_C_2
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0343
+[2018.01.05-07.43.38:838][992]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.43.38:838][992]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.43.38:838][992]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_C /Engine/Transient.World_18:PersistentLevel.Unit_C_2
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:0193
+[2018.01.05-07.43.38:838][992]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.43.38:838][992]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item3
+	Unit_C /Engine/Transient.World_18:PersistentLevel.Unit_C_2
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript:03CC
+[2018.01.05-07.43.42:656][251]LogSlate: Took 0.003446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.01.05-07.43.44:351][334]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.43.44:351][334]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.43.44:351][334]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.43.44:358][334]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.43.44:358][334]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.43.44:358][334]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.43.59:794][695]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.43.59:794][695]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.43.59:794][695]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.43.59:801][695]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.43.59:801][695]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.43.59:801][695]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.44.08:556][402]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.44.08:556][402]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.44.08:556][402]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.44.08:564][402]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.44.08:564][402]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.44.08:564][402]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.47.13:803][722]LogSlate: Took 0.000335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.05-07.47.23:139][749]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AdvancedTurnBasedTileToolkit/Maps/Map_Grid_Example' took 0.027
+[2018.01.05-07.47.23:156][749]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit] ([1] browsable assets)...
+[2018.01.05-07.47.23:156][749]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit]
+[2018.01.05-07.47.25:650][749]LogSavePackage: Save=1424.49ms
+[2018.01.05-07.47.25:650][749]LogSavePackage: Moving 'L:/TurnBasedPokeValley/TurnBased/Saved/Unit_Auto140D61CB849C4EBA81CD9F28BB343791F.tmp' to 'L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Auto1.uasset'
+[2018.01.05-07.47.25:692][749]LogSavePackage: Display: Finished SavePackage L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Auto1.uasset
+[2018.01.05-07.47.25:708][749]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Melee] ([1] browsable assets)...
+[2018.01.05-07.47.25:735][749]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Melee.Unit_Enemy_Melee]
+[2018.01.05-07.47.25:735][749]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Melee]
+[2018.01.05-07.47.26:954][749]LogSavePackage: Save=115.01ms
+[2018.01.05-07.47.26:954][749]LogSavePackage: Moving 'L:/TurnBasedPokeValley/TurnBased/Saved/Unit_Enemy_Melee_Auto139D843D047C88FC3B1806293AA043A5E.tmp' to 'L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Melee_Auto1.uasset'
+[2018.01.05-07.47.26:994][749]LogSavePackage: Display: Finished SavePackage L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Melee_Auto1.uasset
+[2018.01.05-07.47.27:010][749]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Ranged] ([1] browsable assets)...
+[2018.01.05-07.47.27:033][749]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Ranged.Unit_Enemy_Ranged]
+[2018.01.05-07.47.27:033][749]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Ranged]
+[2018.01.05-07.47.28:394][749]LogSavePackage: Save=199.85ms
+[2018.01.05-07.47.28:394][749]LogSavePackage: Moving 'L:/TurnBasedPokeValley/TurnBased/Saved/Unit_Enemy_Ranged_Auto12D591E44495A5AF4EFE72582230D6530.tmp' to 'L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Ranged_Auto1.uasset'
+[2018.01.05-07.47.28:477][749]LogSavePackage: Display: Finished SavePackage L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Ranged_Auto1.uasset
+[2018.01.05-07.47.28:503][749]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Player_Melee] ([1] browsable assets)...
+[2018.01.05-07.47.28:529][749]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Player_Melee.Unit_Player_Melee]
+[2018.01.05-07.47.28:529][749]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Player_Melee]
+[2018.01.05-07.47.29:913][749]LogSavePackage: Save=204.66ms
+[2018.01.05-07.47.29:915][749]LogSavePackage: Moving 'L:/TurnBasedPokeValley/TurnBased/Saved/Unit_Player_Melee_Auto1BF8CC38445C80C96E61EB1B64E4F607E.tmp' to 'L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Player_Melee_Auto1.uasset'
+[2018.01.05-07.47.29:968][749]LogSavePackage: Display: Finished SavePackage L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Player_Melee_Auto1.uasset
+[2018.01.05-07.47.29:984][749]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Player_Ranged] ([1] browsable assets)...
+[2018.01.05-07.47.30:009][749]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Player_Ranged.Unit_Player_Ranged]
+[2018.01.05-07.47.30:009][749]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Player_Ranged]
+[2018.01.05-07.47.31:398][749]LogSavePackage: Save=244.96ms
+[2018.01.05-07.47.31:398][749]LogSavePackage: Moving 'L:/TurnBasedPokeValley/TurnBased/Saved/Unit_Player_Ranged_Auto1FDB6621D4AB03DB00D56649E6AF8EC51.tmp' to 'L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Player_Ranged_Auto1.uasset'
+[2018.01.05-07.47.31:456][749]LogSavePackage: Display: Finished SavePackage L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Player_Ranged_Auto1.uasset
+[2018.01.05-07.47.31:473][749]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Melee1] ([1] browsable assets)...
+[2018.01.05-07.47.31:497][749]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Melee1.Unit_Enemy_Melee1]
+[2018.01.05-07.47.31:497][749]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Melee1]
+[2018.01.05-07.47.32:849][749]LogSavePackage: Save=123.68ms
+[2018.01.05-07.47.32:849][749]LogSavePackage: Moving 'L:/TurnBasedPokeValley/TurnBased/Saved/Unit_Enemy_Melee1_Auto16B840B4B4CF9DEF5F9C63290953E1E43.tmp' to 'L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Melee1_Auto1.uasset'
+[2018.01.05-07.47.32:890][749]LogSavePackage: Display: Finished SavePackage L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Melee1_Auto1.uasset
+[2018.01.05-07.47.32:890][749]LogFileHelpers: Auto-saving content packages took 9.750
+[2018.01.05-07.52.04:096][858]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.52.04:096][858]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.52.04:096][858]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit.Unit_C:UserConstructionScript'!
+[2018.01.05-07.52.48:132][136]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/AdvancedTurnBasedTileToolkit/Blueprints/Heightmap_Actor.Heightmap_Actor_C:UserConstructionScript'!
+[2018.01.05-07.52.48:132][136]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	Heightmap_Actor_C /Engine/Transient.World_19:PersistentLevel.Heightmap_Actor_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Heightmap_Actor.Heightmap_Actor_C:UserConstructionScript:0250
+[2018.01.05-07.52.48:132][136]LogScript: Warning: Accessed None trying to read property GridManagerRef
+	Heightmap_Actor_C /Engine/Transient.World_19:PersistentLevel.Heightmap_Actor_C_0
+	Function /Game/AdvancedTurnBasedTileToolkit/Blueprints/Heightmap_Actor.Heightmap_Actor_C:UserConstructionScript:02B0
+[2018.01.05-07.57.33:364][743]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AdvancedTurnBasedTileToolkit/Maps/Map_Grid_Example' took 0.046
+[2018.01.05-07.57.33:384][743]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit] ([1] browsable assets)...
+[2018.01.05-07.57.33:384][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit]
+[2018.01.05-07.57.36:253][743]LogSavePackage: Save=1412.30ms
+[2018.01.05-07.57.36:253][743]LogSavePackage: Moving 'L:/TurnBasedPokeValley/TurnBased/Saved/Unit_Auto20DEF9C574C56B0072BD4D0A2AD7118ED.tmp' to 'L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Auto2.uasset'
+[2018.01.05-07.57.36:307][743]LogSavePackage: Display: Finished SavePackage L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Auto2.uasset
+[2018.01.05-07.57.36:323][743]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Melee] ([1] browsable assets)...
+[2018.01.05-07.57.36:323][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Melee]
+[2018.01.05-07.57.37:685][743]LogSavePackage: Save=117.10ms
+[2018.01.05-07.57.37:685][743]LogSavePackage: Moving 'L:/TurnBasedPokeValley/TurnBased/Saved/Unit_Enemy_Melee_Auto20F09E179459EDC971FDB5885E235F03B.tmp' to 'L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Melee_Auto2.uasset'
+[2018.01.05-07.57.37:741][743]LogSavePackage: Display: Finished SavePackage L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Melee_Auto2.uasset
+[2018.01.05-07.57.37:760][743]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Ranged] ([1] browsable assets)...
+[2018.01.05-07.57.37:760][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Ranged]
+[2018.01.05-07.57.39:224][743]LogSavePackage: Save=164.28ms
+[2018.01.05-07.57.39:224][743]LogSavePackage: Moving 'L:/TurnBasedPokeValley/TurnBased/Saved/Unit_Enemy_Ranged_Auto2D6E9E6A84BA1D5C6B6EE20A8B14A46DE.tmp' to 'L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Ranged_Auto2.uasset'
+[2018.01.05-07.57.39:266][743]LogSavePackage: Display: Finished SavePackage L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Ranged_Auto2.uasset
+[2018.01.05-07.57.39:285][743]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Player_Melee] ([1] browsable assets)...
+[2018.01.05-07.57.39:285][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Player_Melee]
+[2018.01.05-07.57.40:785][743]LogSavePackage: Save=114.23ms
+[2018.01.05-07.57.40:785][743]LogSavePackage: Moving 'L:/TurnBasedPokeValley/TurnBased/Saved/Unit_Player_Melee_Auto22BACDC514AF59270D1384DAF0ADE07DC.tmp' to 'L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Player_Melee_Auto2.uasset'
+[2018.01.05-07.57.40:826][743]LogSavePackage: Display: Finished SavePackage L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Player_Melee_Auto2.uasset
+[2018.01.05-07.57.40:842][743]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Player_Ranged] ([1] browsable assets)...
+[2018.01.05-07.57.40:842][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Player_Ranged]
+[2018.01.05-07.57.42:443][743]LogSavePackage: Save=167.55ms
+[2018.01.05-07.57.42:443][743]LogSavePackage: Moving 'L:/TurnBasedPokeValley/TurnBased/Saved/Unit_Player_Ranged_Auto226EF2D384BDF2493FB9722B14CD2379E.tmp' to 'L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Player_Ranged_Auto2.uasset'
+[2018.01.05-07.57.42:485][743]LogSavePackage: Display: Finished SavePackage L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Player_Ranged_Auto2.uasset
+[2018.01.05-07.57.42:503][743]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Melee1] ([1] browsable assets)...
+[2018.01.05-07.57.42:503][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Melee1]
+[2018.01.05-07.57.44:028][743]LogSavePackage: Save=117.24ms
+[2018.01.05-07.57.44:028][743]LogSavePackage: Moving 'L:/TurnBasedPokeValley/TurnBased/Saved/Unit_Enemy_Melee1_Auto24163B376454595EF19CB1ABBBDFB514E.tmp' to 'L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Melee1_Auto2.uasset'
+[2018.01.05-07.57.44:127][743]LogSavePackage: Display: Finished SavePackage L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/Pawns/Unit_Enemy_Melee1_Auto2.uasset
+[2018.01.05-07.57.44:147][743]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/NewWidgetBlueprint] ([1] browsable assets)...
+[2018.01.05-07.57.44:147][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedTurnBasedTileToolkit/Blueprints/NewWidgetBlueprint]
+[2018.01.05-07.57.44:235][743]LogSavePackage: Save=37.69ms
+[2018.01.05-07.57.44:235][743]LogSavePackage: Moving 'L:/TurnBasedPokeValley/TurnBased/Saved/NewWidgetBlueprint_Auto2CCDCA4374452E3B25607B4AE4B982AFE.tmp' to 'L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/NewWidgetBlueprint_Auto2.uasset'
+[2018.01.05-07.57.44:275][743]LogSavePackage: Display: Finished SavePackage L:/TurnBasedPokeValley/TurnBased/Saved/Autosaves/Game/AdvancedTurnBasedTileToolkit/Blueprints/NewWidgetBlueprint_Auto2.uasset
+[2018.01.05-07.57.44:275][743]LogFileHelpers: Auto-saving content packages took 10.911
